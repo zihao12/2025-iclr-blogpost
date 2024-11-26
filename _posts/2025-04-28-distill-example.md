@@ -14,11 +14,11 @@ hidden: false
 #   - name: Anonymous
 
 authors:
-  - name: Albert Einstein
+  - name: Einstein
     url: "https://en.wikipedia.org/wiki/Albert_Einstein"
     affiliations:
       name: IAS, Princeton
-  - name: Boris Podolsky
+  - name:  Podolsky
     url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
     affiliations:
       name: IAS, Princeton
