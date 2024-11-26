@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Gradient Similarity in CNNs A New Perspective on Class Concept Representation
+title: Gradient Similarity in Cnns A New Perspective on Class Concept Representation
 description: Rethinking class similarity in deep learning models through the lens of gradient analysis. Our experiments on ResNet variants reveal that gradient-based similarity surpasses latent representation similarity in capturing class-level features, providing a fresh perspective on representation learning and model interpretability.
 date: 2025-04-28
 future: true
