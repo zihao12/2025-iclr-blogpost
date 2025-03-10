@@ -9,9 +9,12 @@ hidden: false
 
 authors:
   - name: Zihao Wang
-    affiliation: Department of Statistics, University of Chicago
+    affiliations:
+      name: Department of Statistics, University of Chicago
   - name: Victor Veitch
-    affiliation: Department of Statistics and Data Science Institute, University of Chicago
+    affiliations:
+      name: Department of Statistics and Data Science Institute, University of Chicago
+
 
 bibliography: 2025-04-28-localization.bib  
 
