@@ -10,10 +10,12 @@ hidden: false
 authors:
   - name: Zihao Wang
     affiliations:
+      url: "https://zihao12.github.io"
       name: Department of Statistics, University of Chicago
   - name: Victor Veitch
     affiliations:
-      name: Department of Statistics and Data Science Institute, University of Chicago
+      url: "https://www.victorveitch.com"
+      name: Department of Statistics, University of Chicago
 
 
 bibliography: 2025-04-28-localization.bib  
